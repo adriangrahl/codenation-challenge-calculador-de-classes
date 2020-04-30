@@ -24,8 +24,8 @@ Você deverá também criar uma classe concreta que implementa Calculavel. O nom
 
 ** Versão inicial **
 
-![](versao1.PNG)
+![](versao1.png)
 
 ** Versão final **
 
-![](versao2.PNG)
+![](versao2.png)
